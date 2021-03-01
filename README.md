@@ -1,6 +1,8 @@
-## Creating_Blocks-using-Blockchain
+# Creating_Blocks-using-Blockchain
 
-Consists blocks # blocks consist transactions 
+Consists blocks 
+
+Blocks consist transactions 
 
 Blocks are contains hash functions         
 
